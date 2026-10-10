@@ -1,6 +1,6 @@
 # Basin Privacy Policy
 
-Effective date: the day Basin 1.5 is released on the App Store
+Effective date: October 10, 2026
 
 Basin is a voice memo app that turns what you say into text on your iPhone, with an app for Apple Watch and, with Basin Pro, an app for Mac. This policy explains what happens to your information when you use it. The short version: Basin does not collect any data. Your recordings stay on your iPhone (a recording made on Apple Watch is moved to your paired iPhone) and are never synced. If you buy Basin Pro and keep iCloud Sync on, the text of your memos is also kept in your own private iCloud database so that it appears on your other devices; we (the developer) cannot access it.
 
@@ -82,7 +82,7 @@ Questions about this policy: i7434554@gmail.com
 
 # Basin 개인정보 처리방침
 
-시행일: Basin 1.5가 App Store에 출시되는 날
+시행일: 2026년 10월 10일
 
 Basin은 말한 내용을 iPhone에서 글로 바꿔 주는 음성 메모 앱입니다. Apple Watch 앱이 있고, Basin Pro를 구입하면 Mac 앱도 쓸 수 있습니다. 이 방침은 Basin을 사용할 때 정보가 어떻게 다뤄지는지 설명합니다. 요약하면, Basin은 어떤 데이터도 수집하지 않습니다. 녹음은 iPhone에만 남고(Apple Watch에서 한 녹음은 연결된 iPhone으로 옮겨집니다) 동기화되지 않습니다. Basin Pro를 구입하고 iCloud 동기화를 켜 두면 메모의 글이 다른 기기에도 보이도록 사용자 본인의 iCloud 개인 데이터베이스에도 보관되며, 개발자는 여기에 접근할 수 없습니다.
 
