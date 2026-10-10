@@ -23,7 +23,7 @@ If you delete a memo, it stays in Recently Deleted for 30 days and is then remov
 
 If you buy Basin Pro, Basin keeps your memos' text the same on your iPhones and Macs that are signed in to the same Apple Account.
 
-- What syncs: titles, transcripts (with their formatting), summaries, dates, favorites and pins, threads, links between memos, which memos are in Recently Deleted, details such as each memo's language, and the file name and length of each recording, but not the recording itself. When a recording is deleted for good, a note with its file name and the time it was deleted is kept, so your other devices delete their copy too.
+- What syncs: titles, transcripts (with their formatting) and the original transcript Basin keeps of each memo, summaries, dates, favorites and pins, threads, links between memos, which memos are in Recently Deleted, your replacement rules, details such as each memo's language, and the file name and length of each recording, but not the recording itself. When a recording is deleted for good, a note with its file name and the time it was deleted is kept, so your other devices delete their copy too.
 - Where it goes: your private database in iCloud (Apple's CloudKit service), in Basin's container. It is tied to your Apple Account. We cannot see, open or download it, and no Basin server is involved. Apple stores this data under its own terms and privacy policy, and it is encrypted in transit and on Apple's servers.
 - When it starts: the next time you open Basin after buying Basin Pro. You can turn it off on each device in Settings › iCloud Sync (on the Mac: Basin › Settings); the change takes effect the next time you open Basin.
 - When sync is off, or if Basin Pro is refunded or a Basin Pro subscription ends, that device stops syncing. No memo is deleted from the device, and what is already in your iCloud stays there.
@@ -105,7 +105,7 @@ Basin에는 계정도, 로그인도, 자체 서버도 없습니다. 개발자는
 
 Basin Pro를 구입하면, 같은 Apple 계정으로 로그인한 iPhone과 Mac에서 메모의 글을 똑같이 맞춰 줍니다.
 
-- 동기화되는 것: 제목, 받아쓴 글(서식 포함), 요약, 날짜, 즐겨찾기와 고정, 폴더, 메모 사이의 연결, 최근 삭제된 항목에 있는지 여부, 메모의 언어 같은 정보, 각 녹음의 파일 이름과 길이. 녹음 자체는 동기화되지 않습니다. 녹음이 완전히 지워지면 그 파일 이름과 지운 시각을 적은 메모가 남아, 다른 기기도 자기 사본을 지웁니다.
+- 동기화되는 것: 제목, 받아쓴 글(서식 포함)과 Basin이 메모마다 보관하는 원본 전사, 요약, 날짜, 즐겨찾기와 고정, 폴더, 메모 사이의 연결, 최근 삭제된 항목에 있는지 여부, 교체 규칙, 메모의 언어 같은 정보, 각 녹음의 파일 이름과 길이. 녹음 자체는 동기화되지 않습니다. 녹음이 완전히 지워지면 그 파일 이름과 지운 시각을 적은 메모가 남아, 다른 기기도 자기 사본을 지웁니다.
 - 보관되는 곳: iCloud(Apple의 CloudKit 서비스)에 있는 사용자의 개인 데이터베이스 중 Basin 전용 영역입니다. 사용자의 Apple 계정에 묶여 있으며, 개발자는 이를 보거나 열거나 내려받을 수 없고 Basin 서버를 거치지도 않습니다. 이 데이터는 Apple의 약관과 개인정보 처리방침에 따라 Apple이 보관하며, 전송 중과 Apple 서버에서 암호화됩니다.
 - 시작: Basin Pro를 구입한 뒤 다음에 Basin을 열 때 시작됩니다. 기기마다 설정 › iCloud 동기화에서 끌 수 있고(Mac에서는 Basin › 설정), 바꾼 내용은 다음에 Basin을 열 때 적용됩니다.
 - 동기화를 끄거나, Basin Pro가 환불되거나, Basin Pro 구독이 끝나면 그 기기는 동기화를 멈춥니다. 기기의 메모는 하나도 지워지지 않고, 이미 iCloud에 있는 내용은 그대로 남습니다.
